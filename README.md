@@ -1,0 +1,2 @@
+# Mafe
+👁 Minimalist safe agent
